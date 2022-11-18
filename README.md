@@ -22,11 +22,12 @@ See `CPP/src/main.cpp` for a sample `main` function.
 The work was conducted at the Indian Institute of Technology (IIT) Madras, India, with Dr. Arun Srivatsan and Dr. Sandipan Bandyopadhyay. My coauthors bear no responsibility for the inaccuracy of the programs.
 Details about my research can be found on my website: [saurav.fyi](https://www.saurav.fyi)
 
-The code is open source and is available to use under the GPL license.
+The program uses GNU Scientific Library (GSL) for solving equations.  
+The program is open source and is available to use under the GPL license.
 
-Copyright 2015-2022, IIT Madras for Mathematica code
+Copyright 2015-2022, IIT Madras for Mathematica program
 
-Copyright 2015-2022, Saurav Agarwal for C++ code
+Copyright 2015-2022, Saurav Agarwal for C++ program
 
 
 CylinderProximity is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
