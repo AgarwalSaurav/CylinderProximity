@@ -8,7 +8,7 @@ ASME Journal of Mechanisms and Robotics. August 2016; 8(4): 041010.
 https://doi.org/10.1115/1.4032211
 ```
 
-Bibtex:
+BibTeX entry:
 ```
 @article{CylinderProximity_ASME16,
     author = {Agarwal, Saurav and Srivatsan, Rangaprasad Arun and Bandyopadhyay, Sandipan},
