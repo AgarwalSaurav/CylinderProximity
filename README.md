@@ -1,11 +1,26 @@
 # CylinderProximity
-The repository contains Mathematica and C++ programs for our paper on "Analytical Determination of the Proximity of Two Right-Circular Cylinders in Space." Please use the citation below if you find the programs useful.
+The repository contains Mathematica and C++ programs for our paper on "Analytical Determination of the Proximity of Two Right-Circular Cylinders in Space." Please use the citation below if you find the programs useful. The paper can be downloaded from my webpage: [saurav.fyi/publications](https://www.saurav.fyi/publications).
 
 ```
-Agarwal, S., Srivatsan, R. A., and Bandyopadhyay, S. (March 8, 2016).
+Agarwal, S., Srivatsan, R. A., and Bandyopadhyay, S.
 "Analytical Determination of the Proximity of Two Right-Circular Cylinders in Space."
 ASME Journal of Mechanisms and Robotics. August 2016; 8(4): 041010.
 https://doi.org/10.1115/1.4032211
+```
+
+Bibtex:
+```
+@article{CylinderProximity_ASME16,
+    author = {Agarwal, Saurav and Srivatsan, Rangaprasad Arun and Bandyopadhyay, Sandipan},
+    title = {Analytical Determination of the Proximity of Two Right-Circular Cylinders in Space},
+    journal = {Journal of Mechanisms and Robotics},
+    volume = {8},
+    number = {4},
+    year = {2016},
+    month = {03},
+    issn = {1942-4302},
+    doi = {10.1115/1.4032211},
+}
 ```
 
 ## Description
@@ -18,6 +33,16 @@ Run `bash setup.bash` inside the `CPP` folder.
 `./bin/CylinderProximity` to execute the binary.  
 See `CPP/src/main.cpp` for a sample `main` function.
 
+## Possible Caveats
+A very refreshing way of thinking about the problem was presented by Professor Zsombor-Murray in the paper below. A possible case that may have been missed in our formulation was also discussed. We gratefully acknowledge Professor Zsombor-Murray's valuable input on the problem.
+
+```
+Zsombor-Murray, P. (2018).
+"Intrusion, Proximity and Stationary Distance."
+In: Zeghloul, S., Romdhane, L., Laribi, M. (eds) Computational Kinematics.
+Mechanisms and Machine Science, vol 50. Springer, Cham.
+https://doi.org/10.1007/978-3-319-60867-9_54
+```
 ## License and Acknowledgments
 The work was conducted at the Indian Institute of Technology (IIT) Madras, India, with Dr. Arun Srivatsan and Dr. Sandipan Bandyopadhyay. My coauthors bear no responsibility for the inaccuracy of the programs.
 Details about my research can be found on my website: [saurav.fyi](https://www.saurav.fyi)
